@@ -1,0 +1,22 @@
+#contenido {
+    text-align: center;
+}
+
+#encabezado {
+    background-color: rgb(253, 253, 55);
+    text-align: center;
+    font-size: 50px;
+}
+
+#articulo {
+    border: double 10px orangered;
+    font-size: 30px;
+    background-color: lightskyblue;
+    height: 700px;
+}
+
+#pie {
+    height: 40px;
+    background-color: rgb(236, 21, 164);
+    font-size: 20px;
+}
